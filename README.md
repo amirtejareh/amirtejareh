@@ -13,15 +13,12 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="max-width: 100%;">
 </a>
 
-
+<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirtejareh&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtejareh&layout=compact&theme=radical)
 
-
-
-
-
+<br/><br/>
 <strong>Languages & Tools:</strong>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
