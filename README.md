@@ -9,13 +9,15 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
 
+<a href="https://www.instagram.com/bluedev.agency" rel="nofollow">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="max-width: 100%;">
+</a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirtejareh&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtejareh&layout=compact&theme=radical)
 
-<a href="https://www.instagram.com/bluedev.agency" rel="nofollow">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="max-width: 100%;">
-</a>
 
 
 
