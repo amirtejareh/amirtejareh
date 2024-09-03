@@ -1,7 +1,7 @@
 <h2 align="center"><strong>Hi 👋, I'm Amir</strong></h2>
 <h3 align="center">A fullstack developer with more than 5 years of experience from Iran.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirtejareh&label=Profile%20views&color=0e75b6&style=flat" alt="amirtejareh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirtejareh&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="amirtejareh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirtejareh" alt="amirtejareh" /></a> </p>
 
