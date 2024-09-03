@@ -1,4 +1,8 @@
 ## I'm Amir Tejareh. A Fullstack Developer with more than 5 years of experience.
+<p align="center"><strong>Hi 👋, I'm Amir</strong></p>
+<p align="center">A fullstack developer with more than 5 years of experience from Iran.</p>
+
+
 
 <strong>My porfolio:</strong>
  [amirtejareh.ir](https://amirtejareh.ir/)
