@@ -41,7 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtejareh&layout=compact&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirtejareh&color=0e75b6&style=fla" alt="amirtejareh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirtejareh&color=0e75b6&style=flat" alt="amirtejareh" /></p>
 
 
 
