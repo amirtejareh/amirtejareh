@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left">My Portfolio:  [amirtejareh.ir](https://amirtejareh.ir/)</h3>
+<h3 align="left">My Portfolio:  https://amirtejareh.ir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirtejareh&label=Profile%20views&color=0e75b6&style=flat" alt="amirtejareh" /> </p>
 
