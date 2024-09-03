@@ -8,12 +8,13 @@
 <h3 style="display:inline" align="left">My Portfolio:  <a href="https://amirtejareh.ir">AmirTejareh.ir</a></h3>    
 
 <h3 align="left">Connect with me: </h3>
-
 <p align="left">
-<a href="https://linkedin.com/in/AmirTejareh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirtejareh" height="30" width="40" /></a>
-<a href="https://instagram.com/Bluedev.Agency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bluedev.agency" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/AmirTejareh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amir_developer" height="30" width="40" /></a>
-  </p>
+<a href="https://twitter.com/AmirTejareh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AmirTejareh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AmirTejareh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AmirTejareh" height="30" width="40" /></a>
+<a href="https://instagram.com/Bluedev.Agency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bluedev.Agency" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/AmirTejareh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AmirTejareh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AmirTejareh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmirTejareh" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:    </h3>
