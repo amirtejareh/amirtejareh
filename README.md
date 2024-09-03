@@ -13,6 +13,7 @@
 <a href="https://instagram.com/bluedev.agency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bluedev.agency" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amir_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amir_developer" height="30" width="40" /></a>
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirtejareh&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtejareh&layout=compact&theme=radical)
