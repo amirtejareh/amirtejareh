@@ -8,7 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirtejareh" alt="amirtejareh" /></a> </p>
 
-<h3 align="left">My Portfolio:  https://amirtejareh.ir</h3>
+<h3 align="left">My Portfolio: </h3>
+<p>
+    <a href="https://amirtejareh.ir">AmirTejareh.ir</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
