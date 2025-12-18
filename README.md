@@ -1,5 +1,5 @@
 <h2 align="center"><strong>Hi 👋, I'm Amir</strong></h2>
-<h3 align="center">A fullstack developer with more than 5 years of experience from Iran.</h3>
+<h3 align="center">A fullstack developer with more than 5 years of experience .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirtejareh&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="amirtejareh" /> </p>
 
