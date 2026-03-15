@@ -1,5 +1,5 @@
 <h2 align="center"><strong>Hi 👋, I'm Amir</strong></h2>
-<h3 align="center">A Full-Stack Developer with 5+ years of professional experience</h3>
+<h3 align="center">Full-Stack Developer focused on Frontend with 5+ years of professional experience</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amirtejareh&label=Profile%20views&color=0e75b6&style=flat" alt="amirtejareh" />
